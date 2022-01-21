@@ -21,3 +21,6 @@
 <section>
   <PopularMovies {popular} />
 </section>
+
+<style>
+</style>
