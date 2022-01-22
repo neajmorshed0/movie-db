@@ -12,9 +12,6 @@
 </div>
 
 <style>
-  * {
-    font-family: "Poppins", sans-serif;
-  }
   h3 {
     padding: 0 1rem;
   }
